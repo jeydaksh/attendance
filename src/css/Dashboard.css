@@ -1,0 +1,45 @@
+.dashboard{
+    color:#fff;
+    padding:120px 0px 80px;
+}
+.title{
+    margin-bottom: 40px;
+}
+.checkbox
+{
+    background: #111718b8;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    padding: 20px 20px;
+    position: relative;
+}
+.checkbox h4
+{
+margin-bottom: 20px;
+}
+.checkbox button
+{
+border:none;
+color:white;
+font-weight: bold;
+margin-bottom: 20px;
+}
+.checkbox button.checkin
+{
+    background-color: #F8D608;
+}
+.checkbox button.checkout
+{
+    background-color: #E72328;
+}
+.checkinstatus{
+    font-size: 18px;
+}
+/* Disabled state styles */
+button[disabled] {
+    background-color: #dddddd !important;
+    color: #000;
+    cursor: not-allowed;
+  }

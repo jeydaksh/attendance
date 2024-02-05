@@ -1,0 +1,25 @@
+button{
+    width: 100%;
+    padding: 10px;
+}
+input{
+width: 100%;
+height:40px;
+margin-bottom:20px;
+background-color:transparent;
+border:#fff 1px solid;
+padding-left: 10px;
+color:#fff;
+}
+::placeholder{color:#fff}
+.home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  /* Home.css */
+.error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  
