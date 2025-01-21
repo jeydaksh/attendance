@@ -25,7 +25,7 @@ const About = function(){
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-lg-4">
-      <h2>About</h2>
+      <h2>About 2</h2>
       
       </div>
         </div>
